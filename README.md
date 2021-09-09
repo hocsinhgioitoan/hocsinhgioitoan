@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hocsinhgioivan</h1>
+<h1 align="center">Hi 👋, I'm hocsinhgioitoan</h1>
 <h3 align="center">Hello I come from Vietnam. I am learning js</h3>
 
 - 🔭 I’m currently working on **Itona Bot**
