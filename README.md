@@ -10,3 +10,5 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocsinhgioitoan&count_private=true&show_icons=true&theme=tokyonight)
 [![hocsinhgioitoan's github trophy](https://github-profile-trophy.vercel.app/?username=hocsinhgioitoan&row=1)](https://github.com/hocsinhgioitoan)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/677789907388989469?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/677789907388989469)
+
+<a href="https://app.daily.dev/hocsinhgioitoan"><img src="https://api.daily.dev/devcards/c1e66017cc3d403892a2b1b6e1eaa3b1.png?r=p70" width="400" alt="Hoang Hai Anh's Dev Card"/></a>
